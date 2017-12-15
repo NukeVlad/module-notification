@@ -1,5 +1,5 @@
 # module-notification
-Module for NukeViet CMS 4.X
+Модуль Уведомление для NukeViet CMS 4.X
 
 При установке в модуле необходимо написать строку в виде кода ниже:
 
