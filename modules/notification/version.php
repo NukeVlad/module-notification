@@ -11,7 +11,7 @@
 if ( ! defined( 'NV_ADMIN' ) or ! defined( 'NV_MAINFILE' ) ) die( 'Stop!!!' );
 
 $module_version = array( //
-    "name" => "Notification", // Tieu de module
+    "name" => "Notification", // Модуль Уведомление
     "modfuncs" => "main", //
     "is_sysmod" => 0, //
     "virtual" => 0, //
