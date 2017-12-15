@@ -15,7 +15,7 @@ $sql_drop_module[] = "DROP TABLE IF EXISTS " . $db_config['prefix'] . "_" . $lan
 
 $sql_create_module = $sql_drop_module;
 
-//tin thong bao
+//Пресс-релиз
 $sql_create_module[] = "CREATE TABLE " . $db_config['prefix'] . "_" . $lang . "_" . $module_data . " (
   id mediumint(8) unsigned NOT NULL AUTO_INCREMENT,
   message varchar(255) NOT NULL,
