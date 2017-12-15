@@ -1,7 +1,7 @@
 # module-notification
 Module for NukeViet CMS 4.X
 
-Cài đặt ở module cần ghi thông báo như đoạn code dưới đây
+При установке в модуле необходимо написать строку в виде кода ниже:
 
 if( isset( $site_mods['notification'] ) )
 {
